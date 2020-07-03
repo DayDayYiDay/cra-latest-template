@@ -9,7 +9,7 @@ export interface Props {
   enthusiasmLevel?: number
 }
 
-function Hello({ name, enthusiasmLevel = 1 }: Props) {
+function Main({ name, enthusiasmLevel = 1 }: Props) {
   const testA = {
     a: 1,
     b: 1,
@@ -30,6 +30,6 @@ function Hello({ name, enthusiasmLevel = 1 }: Props) {
   )
 }
 
-export default Hello
+export default Main
 
 // helpers

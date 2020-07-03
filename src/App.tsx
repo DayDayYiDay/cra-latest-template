@@ -1,4 +1,5 @@
 import React from 'react'
+import Main from './Home/Main'
 import logo from './logo.svg'
 import './App.css'
 
@@ -18,6 +19,7 @@ function App() {
         >
           Learn React
         </a>
+        <Main name="TypeScript" enthusiasmLevel={10} />
       </header>
     </div>
   )
