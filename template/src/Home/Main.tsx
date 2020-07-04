@@ -1,4 +1,5 @@
 import * as React from 'react'
+import Button from '@material-ui/core/Button'
 
 function getExclamationMarks(numChars: number) {
   return Array(numChars + 1).join('!')
@@ -26,6 +27,9 @@ function Main({ name, enthusiasmLevel = 1 }: Props) {
       <div className="greeting">
         Hello {name + getExclamationMarks(enthusiasmLevel)}
       </div>
+      <Button variant="contained" color="primary">
+        Hello World
+      </Button>
     </div>
   )
 }
