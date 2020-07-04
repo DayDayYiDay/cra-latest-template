@@ -1,17 +1,18 @@
 {
-  "name": "cra-template-typescript-eslint",
-  "version": "1.0.3",
+  "name": "@ryuusei/cra-template-typescript-eslint",
+  "version": "1.0.1",
   "keywords": [
     "react",
     "create-react-app",
     "template",
-    "typescript"
+    "typescript",
+    "eslint"
   ],
   "description": "The base TypeScript template for Create React App, with ESlint",
   "main": "template.json",
   "repository": {
     "type": "git",
-    "url": "https://github.com/facebook/create-react-app.git",
+    "url": "https://github.com/DayDayYiDay/cra-latest-template.git",
     "directory": "packages/cra-template-typescript"
   },
   "license": "MIT",
@@ -19,11 +20,11 @@
     "node": ">=8.10"
   },
   "bugs": {
-    "url": "https://github.com/facebook/create-react-app/issues"
+    "url": "https://github.com/DayDayYiDay/cra-latest-template/issues"
   },
   "files": [
     "template",
     "template.json"
   ],
-  "gitHead": "d2f813f8897ffcd2f0b0d2da75d0c44924c92f4d"
+  "gitHead": "3da67569582de74782522931a65ca1cacf3a66a3"
 }
