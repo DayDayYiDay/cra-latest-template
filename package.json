@@ -1,29 +1,30 @@
 {
-  "name": "cra-template-typescript-eslint",
-  "version": "1.0.3",
+  "name": "@ryuusei/cra-template-typescript-eslint-scss",
+  "version": "1.0.0",
   "keywords": [
     "react",
     "create-react-app",
     "template",
-    "typescript"
+    "typescript",
+    "eslint",
+    "scss"
   ],
-  "description": "The base TypeScript template for Create React App, with ESlint",
+  "description": "The base TypeScript template for Create React App, with ESlint Scss",
   "main": "template.json",
   "repository": {
     "type": "git",
-    "url": "https://github.com/facebook/create-react-app.git",
-    "directory": "packages/cra-template-typescript"
+    "url": "https://github.com/DayDayYiDay/cra-latest-template.git"
   },
   "license": "MIT",
   "engines": {
     "node": ">=8.10"
   },
   "bugs": {
-    "url": "https://github.com/facebook/create-react-app/issues"
+    "url": "https://github.com/DayDayYiDay/cra-latest-template/issues"
   },
   "files": [
     "template",
     "template.json"
   ],
-  "gitHead": "d2f813f8897ffcd2f0b0d2da75d0c44924c92f4d"
+  "gitHead": "3da67569582de74782522931a65ca1cacf3a66a3"
 }
