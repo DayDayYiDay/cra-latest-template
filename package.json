@@ -1,5 +1,5 @@
 {
-  "name": "@ryuusei/cra-template-typescript-eslint-scss",
+  "name": "@ryuusei/cra-template-typescript-esl-sc-mui",
   "version": "1.0.0",
   "keywords": [
     "react",
@@ -7,9 +7,10 @@
     "template",
     "typescript",
     "eslint",
-    "scss"
+    "scss",
+    "material-ui"
   ],
-  "description": "The base TypeScript template for Create React App, with ESlint Scss",
+  "description": "The base TypeScript template for Create React App, with ESlint Scss Material-UI",
   "main": "template.json",
   "repository": {
     "type": "git",

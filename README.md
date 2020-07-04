@@ -1,7 +1,7 @@
 # Introduction
 
-Base on @ryuusei/cra-template-typescript-eslint.<br />
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), including ESlint with airbnb, Scss.
+Base on @ryuusei/cra-template-typescript-eslint-scss.<br />
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), including ESlint with airbnb, Scss, Material-UI.
 
 ## Available Scripts
 
