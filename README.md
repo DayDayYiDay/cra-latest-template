@@ -1,4 +1,23 @@
+# Introduction
+
+Collection of npm packages extends of cra-template-typescript.
+added ESlint with Airbnb Rules, node-sass, Material-UI.<br />
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Map of Package and Branch
+
+* @ryuusei/cra-template-typescript-eslint <==> base-template
+* @ryuusei/cra-template-typescript-eslint-scss <==> base-template-scss
+* @ryuusei/cra-template-typescript-esl-sc-mui <==> base-template-scss-material
+
+## Install
+
+```
+select one of below
+npx create-react-app <your-project-name> --template @ryuusei/cra-template-typescript-eslint
+npx create-react-app <your-project-name> --template @ryuusei/cra-template-typescript-eslint-scss
+npx create-react-app <your-project-name> --template @ryuusei/cra-template-typescript-esl-sc-mui
+```
 
 ## Available Scripts
 
